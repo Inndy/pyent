@@ -6,7 +6,7 @@ with open('README.md') as fp:
 
 setup(
     name='pyent',
-    version='0.0.1',
+    version='0.0.2',
     author='Inndy Lin',
     author_email='inndy.tw@gmail.com',
     description='Unix utility `ent` reimplement with cython. Calculating data entropy',
